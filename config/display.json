@@ -1,0 +1,8 @@
+{
+  "target FPS": 30,
+  "window size": {
+    "x": 800,
+    "y": 600
+  },
+  "window name": "particle simulation"
+}

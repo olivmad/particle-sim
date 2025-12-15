@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/oliver/projects/particle-sim/build",
+  "command": "/usr/bin/g++  -I/home/oliver/projects/particle-sim/src -I/home/oliver/projects/particle-sim/src/JSON -I/home/oliver/projects/particle-sim/src/common -I/home/oliver/projects/particle-sim/src/display -I/home/oliver/projects/particle-sim/src/simulation -g -std=gnu++17 -o CMakeFiles/particle-sim.dir/src/display/display.cpp.o -c /home/oliver/projects/particle-sim/src/display/display.cpp",
+  "file": "/home/oliver/projects/particle-sim/src/display/display.cpp",
+  "output": "CMakeFiles/particle-sim.dir/src/display/display.cpp.o"
+},
+{
+  "directory": "/home/oliver/projects/particle-sim/build",
+  "command": "/usr/bin/g++  -I/home/oliver/projects/particle-sim/src -I/home/oliver/projects/particle-sim/src/JSON -I/home/oliver/projects/particle-sim/src/common -I/home/oliver/projects/particle-sim/src/display -I/home/oliver/projects/particle-sim/src/simulation -g -std=gnu++17 -o CMakeFiles/particle-sim.dir/src/get-settings.cpp.o -c /home/oliver/projects/particle-sim/src/get-settings.cpp",
+  "file": "/home/oliver/projects/particle-sim/src/get-settings.cpp",
+  "output": "CMakeFiles/particle-sim.dir/src/get-settings.cpp.o"
+},
+{
+  "directory": "/home/oliver/projects/particle-sim/build",
+  "command": "/usr/bin/g++  -I/home/oliver/projects/particle-sim/src -I/home/oliver/projects/particle-sim/src/JSON -I/home/oliver/projects/particle-sim/src/common -I/home/oliver/projects/particle-sim/src/display -I/home/oliver/projects/particle-sim/src/simulation -g -std=gnu++17 -o CMakeFiles/particle-sim.dir/src/main.cpp.o -c /home/oliver/projects/particle-sim/src/main.cpp",
+  "file": "/home/oliver/projects/particle-sim/src/main.cpp",
+  "output": "CMakeFiles/particle-sim.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/oliver/projects/particle-sim/build",
+  "command": "/usr/bin/g++  -I/home/oliver/projects/particle-sim/src -I/home/oliver/projects/particle-sim/src/JSON -I/home/oliver/projects/particle-sim/src/common -I/home/oliver/projects/particle-sim/src/display -I/home/oliver/projects/particle-sim/src/simulation -g -std=gnu++17 -o CMakeFiles/particle-sim.dir/src/simulation/simulation-area.cpp.o -c /home/oliver/projects/particle-sim/src/simulation/simulation-area.cpp",
+  "file": "/home/oliver/projects/particle-sim/src/simulation/simulation-area.cpp",
+  "output": "CMakeFiles/particle-sim.dir/src/simulation/simulation-area.cpp.o"
+}
+]

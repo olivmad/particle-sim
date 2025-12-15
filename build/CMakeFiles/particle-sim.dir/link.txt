@@ -1,0 +1,1 @@
+/usr/bin/g++ -g "CMakeFiles/particle-sim.dir/src/display/display.cpp.o" "CMakeFiles/particle-sim.dir/src/get-settings.cpp.o" "CMakeFiles/particle-sim.dir/src/main.cpp.o" "CMakeFiles/particle-sim.dir/src/simulation/simulation-area.cpp.o" -o particle-sim 

@@ -1,0 +1,12 @@
+{
+  "simulation size": {
+    "x": 256,
+    "y": 256
+  },
+  "gravity": {
+    "x": 0,
+    "y": 0
+  },
+  "heat expansion multiplier": 1,
+  "default temperature": 21
+}
